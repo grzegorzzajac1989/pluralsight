@@ -1,2 +1,1 @@
-# pluralsight
-http://pluralsight.com
+* [pluralsight](https://app.pluralsight.com/profile/grzegorzzajac1989)
